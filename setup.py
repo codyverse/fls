@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="FLS",
-    version="0.0.1.241122",
+    version="0.0.1.241224",
     description="A module for matching file system paths against patterns.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",

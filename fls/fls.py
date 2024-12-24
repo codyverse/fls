@@ -3,7 +3,7 @@ Module:        FLS
 Description:   A module for matching file system paths against patterns.
 Author:        Andrii Burkatskyi aka andr11b
 Year:          2024
-Version:       0.0.1.241122
+Version:       0.0.1.241224
 License:       MIT License
 Email:         4ndr116@gmail.com
 Link:          https://github.com/codyverse/fls
